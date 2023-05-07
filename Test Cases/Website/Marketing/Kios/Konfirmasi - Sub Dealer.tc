@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>akun : support@mail.com
+pass : password</description>
+   <name>Konfirmasi - Sub Dealer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d9a22839-b44e-4aec-97fc-671f81fa9952</testCaseGuid>
+</TestCaseEntity>

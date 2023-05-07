@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Support</name>
+   <tag></tag>
+   <elementGuidId>5f49ace1-128a-4d62-b49b-11ff593f80e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.align-text-bottom.ml-2.font-weight-bold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Show All'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>986676ed-cd99-4577-9100-1ee383a59dff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>align-text-bottom ml-2 font-weight-bold</value>
+      <webElementGuid>c90ce14d-3844-413d-85f0-1b0fc9ebebae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Support
+            </value>
+      <webElementGuid>8062a139-4e2d-46e6-91be-23d030a6e083</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;c-app&quot;]/div[@class=&quot;c-wrapper c-fixed-components&quot;]/header[@class=&quot;c-header&quot;]/ul[@class=&quot;c-header-nav ml-auto mr-4&quot;]/li[@class=&quot;c-header-nav-item dropdown&quot;]/a[@class=&quot;c-header-nav-link&quot;]/span[@class=&quot;align-text-bottom ml-2 font-weight-bold&quot;]</value>
+      <webElementGuid>c755c43b-3598-4646-ae6a-86f1e96833d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show All'])[1]/following::span[1]</value>
+      <webElementGuid>f572a233-c73b-4ad5-852c-87601312ab86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Marketing : personel RMC untuk tes 1a || Area : RAC region 1'])[774]/following::span[1]</value>
+      <webElementGuid>4f00f575-3b9a-4972-a548-bbb5b224ff2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[1]/preceding::span[1]</value>
+      <webElementGuid>b2ca8688-7edc-4cd9-afc9-c66f22f5ed6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Support']/parent::*</value>
+      <webElementGuid>30630df2-a7f7-4cfe-a56d-a67b6d0e4e8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>67e7133b-6bf4-4f7b-8edd-3a2dce3446e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                Support
+            ' or . = '
+                Support
+            ')]</value>
+      <webElementGuid>c36dabac-d421-48ce-98ca-11ef81718bc6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

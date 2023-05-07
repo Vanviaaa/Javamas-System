@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Registrasi Dealer</name>
+   <tag></tag>
+   <elementGuidId>9779b53e-1dae-436d-a18c-c28712f60296</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='store_to_dealer']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#store_to_dealer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>97cc7ae1-b684-4be5-a435-0c3541f80f8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>5f848227-6596-4eca-a299-096fb56028cd</value>
+      <webElementGuid>02b09b23-56db-4688-9dda-f7af76422929</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>store_to_dealer</value>
+      <webElementGuid>dcdcce5f-af27-4f65-ab40-25fe8ccf8906</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-info btn-table-long-regristrasi</value>
+      <webElementGuid>cfc8850a-04c6-4738-9155-a5d41c94599b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4eb348b0-9844-4761-83a6-782abbe9b77b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            Registrasi Dealer
+                                    </value>
+      <webElementGuid>6b286544-7d1e-4449-bd5c-d4fa0a931d30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tbody-table-daftar-kios&quot;)/tr[1]/td[@class=&quot;status&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col-12&quot;]/button[@id=&quot;store_to_dealer&quot;]</value>
+      <webElementGuid>d9e64e81-6112-4ced-98b4-a426f89fad43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='store_to_dealer']</value>
+      <webElementGuid>d4918140-8c59-4e9e-907d-832f73a842c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='tbody-table-daftar-kios']/tr/td[4]/div/div[2]/button</value>
+      <webElementGuid>819aadef-be48-4d48-b501-85bbfe862301</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[1]/following::button[1]</value>
+      <webElementGuid>28c4dc73-f85b-4ee8-bbe9-abda67479ca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registrasi Sub-Dealer'])[2]/preceding::button[1]</value>
+      <webElementGuid>1c30a4c0-a1b1-4097-8143-8f41a51048ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div/div[2]/button</value>
+      <webElementGuid>e4def51f-55c6-4f71-a395-80577ecd62ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'store_to_dealer' and @type = 'button' and (text() = '
+                                            Registrasi Dealer
+                                    ' or . = '
+                                            Registrasi Dealer
+                                    ')]</value>
+      <webElementGuid>5aea63cf-b7f8-4d45-8c1f-b655d34ae938</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

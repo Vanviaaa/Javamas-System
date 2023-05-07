@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Kios" time="253.997" tests="4" failures="0" errors="0">
+   <testsuite name="Kios" tests="4" failures="0" errors="0" time="253.997" skipped="0" timestamp="2023-03-08 13:58:46" hostname="redan - LAPTOP-4F9JLVAI" id="Test Suites/Website/Regression/Kios">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\redan\\git\\QA-RAC-Javamas-System\\Reports\\20230308_135843\\Website\\Regression\\Kios\\20230308_135843"/>
+         <property name="logFiles" value="C:\\Users\\redan\\git\\QA-RAC-Javamas-System\\Reports\\20230308_135843\\Website\\Regression\\Kios\\20230308_135843\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="redan - LAPTOP-4F9JLVAI"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Chrome 110.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.110"/>
+         <property name="sessionId" value="f49ea61d7291713f6ed452e59c6215d8"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Website/Marketing/Kios/Buat Kios" time="60.645" classname="Test Cases/Website/Marketing/Kios/Buat Kios" status="PASSED">
+         <system-out><![CDATA[2023-03-08 13:58:46 - [TEST_CASE][PASSED] - Test Cases/Website/Marketing/Kios/Buat Kios: Test Cases/Website/Marketing/Kios/Buat Kios
+
+2023-03-08 13:58:46 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-03-08 13:58:47 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-03-08 13:58:47 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-03-08 13:58:49 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-03-08 13:58:49 - [TEST_STEP][PASSED] - navigateToUrl("https://fe-staging.kumpulkebon.com/login"): Navigate to 'https://fe-staging.kumpulkebon.com/login' successfully
+
+2023-03-08 13:58:54 - [MESSAGE][PASSED] - Navigate to 'https://fe-staging.kumpulkebon.com/login' successfully
+
+2023-03-08 13:58:54 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Login/input_Lupa Kata Sandi_login"), "personelrmc1@mail.com"): Text 'personelrmc1@mail.com' is set on object 'Object Repository/Object Kios/Page_Login/input_Lupa Kata Sandi_login'
+
+2023-03-08 13:58:55 - [MESSAGE][PASSED] - Text 'personelrmc1@mail.com' is set on object 'Object Repository/Object Kios/Page_Login/input_Lupa Kata Sandi_login'
+
+2023-03-08 13:58:55 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Object Kios/Page_Login/input_Lupa Kata Sandi_password"), "8SQVv/p9jVScEs4/2CZsLw=="): Text ****** has been set on object 'Object Repository/Object Kios/Page_Login/input_Lupa Kata Sandi_password'
+
+2023-03-08 13:58:56 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Object Kios/Page_Login/input_Lupa Kata Sandi_password'
+
+2023-03-08 13:58:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Login/button_Masuk")): Object: 'Object Repository/Object Kios/Page_Login/button_Masuk' is clicked on
+
+2023-03-08 13:58:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Login/button_Masuk' is clicked on
+
+2023-03-08 13:58:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_/button_Marketing")): Object: 'Object Repository/Object Kios/Page_/button_Marketing' is clicked on
+
+2023-03-08 13:59:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_/button_Marketing' is clicked on
+
+2023-03-08 13:59:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Staff - Dashboard/a_Kios")): Object: 'Object Repository/Object Kios/Page_Marketing Staff - Dashboard/a_Kios' is clicked on
+
+2023-03-08 13:59:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff - Dashboard/a_Kios' is clicked on
+
+2023-03-08 13:59:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/button_Ajukan                        Kios")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Ajukan                        Kios' is clicked on
+
+2023-03-08 13:59:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Ajukan                        Kios' is clicked on
+
+2023-03-08 13:59:14 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input__kios_nama"), "PT CINTA CEJAHTERA"): Text 'PT CINTA CEJAHTERA' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input__kios_nama'
+
+2023-03-08 13:59:15 - [MESSAGE][PASSED] - Text 'PT CINTA CEJAHTERA' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input__kios_nama'
+
+2023-03-08 13:59:15 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input__kios_telp"), "123456678912"): Text '123456678912' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input__kios_telp'
+
+2023-03-08 13:59:16 - [MESSAGE][PASSED] - Text '123456678912' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input__kios_telp'
+
+2023-03-08 13:59:16 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/textarea__kios_alamat"), "JALAN PT CINTA CEJAHTERA"): Text 'JALAN PT CINTA CEJAHTERA' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/textarea__kios_alamat'
+
+2023-03-08 13:59:17 - [MESSAGE][PASSED] - Text 'JALAN PT CINTA CEJAHTERA' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/textarea__kios_alamat'
+
+2023-03-08 13:59:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Kios/Page_Marketing Staff/span_Pilih Provinsi - personelRMC")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/span_Pilih Provinsi - personelRMC' is clicked on
+
+2023-03-08 13:59:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/span_Pilih Provinsi - personelRMC' is clicked on
+
+2023-03-08 13:59:18 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field"), "Papua"): Text 'Papua' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 13:59:19 - [MESSAGE][PASSED] - Text 'Papua' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 13:59:19 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 13:59:19 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 13:59:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Kios/Page_Marketing Staff/span_Pilih Kabupaten Kota - personilRMC")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/span_Pilih Kabupaten Kota - personilRMC' is clicked on
+
+2023-03-08 13:59:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/span_Pilih Kabupaten Kota - personilRMC' is clicked on
+
+2023-03-08 13:59:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field"), "Deiyai"): Text 'Deiyai' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 13:59:22 - [MESSAGE][PASSED] - Text 'Deiyai' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 13:59:22 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 13:59:23 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 13:59:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Kios/Page_Marketing Staff/span_Pilih Kecamatan - personelRMC")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/span_Pilih Kecamatan - personelRMC' is clicked on
+
+2023-03-08 13:59:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/span_Pilih Kecamatan - personelRMC' is clicked on
+
+2023-03-08 13:59:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field"), "Tigi"): Text 'Tigi' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 13:59:26 - [MESSAGE][PASSED] - Text 'Tigi' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 13:59:26 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 13:59:26 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 13:59:26 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input__kios_gmaps"), "https://www.google.co.id/maps/@-7.7094418,110.4109991,14z"): Text 'https://www.google.co.id/maps/@-7.7094418,110.4109991,14z' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input__kios_gmaps'
+
+2023-03-08 13:59:28 - [MESSAGE][PASSED] - Text 'https://www.google.co.id/maps/@-7.7094418,110.4109991,14z' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input__kios_gmaps'
+
+2023-03-08 13:59:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/button_Simpan Data Kios")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Simpan Data Kios' is clicked on
+
+2023-03-08 13:59:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Simpan Data Kios' is clicked on
+
+2023-03-08 13:59:28 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2023-03-08 13:59:30 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2023-03-08 13:59:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/button_Tambah Petani Kunci")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Tambah Petani Kunci' is clicked on
+
+2023-03-08 13:59:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Tambah Petani Kunci' is clicked on
+
+2023-03-08 13:59:31 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input__name"), "DANI SHORT TIME"): Text 'DANI SHORT TIME' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input__name'
+
+2023-03-08 13:59:32 - [MESSAGE][PASSED] - Text 'DANI SHORT TIME' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input__name'
+
+2023-03-08 13:59:32 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input__telephone"), "1112233445566"): Text '1112233445566' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input__telephone'
+
+2023-03-08 13:59:33 - [MESSAGE][PASSED] - Text '1112233445566' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input__telephone'
+
+2023-03-08 13:59:33 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/textarea__address"), "Berbah Sleman YK"): Text 'Berbah Sleman YK' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/textarea__address'
+
+2023-03-08 13:59:34 - [MESSAGE][PASSED] - Text 'Berbah Sleman YK' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/textarea__address'
+
+2023-03-08 13:59:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/button_Tambahkan")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Tambahkan' is clicked on
+
+2023-03-08 13:59:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Tambahkan' is clicked on
+
+2023-03-08 13:59:35 - [TEST_STEP][PASSED] - delay(4): Delayed 4 second(s)
+
+2023-03-08 13:59:39 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2023-03-08 13:59:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/ButtonSubmit-kios")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/ButtonSubmit-kios' is clicked on
+
+2023-03-08 13:59:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/ButtonSubmit-kios' is clicked on
+
+2023-03-08 13:59:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Kios/Page_Marketing Staff/button ajukan")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/button ajukan' is clicked on
+
+2023-03-08 13:59:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/button ajukan' is clicked on
+
+2023-03-08 13:59:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Kios/Page_Marketing Staff/button_Ya - Buat kios")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Ya - Buat kios' is clicked on
+
+2023-03-08 13:59:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Ya - Buat kios' is clicked on
+
+2023-03-08 13:59:44 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2023-03-08 13:59:46 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2023-03-08 13:59:46 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-03-08 13:59:47 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Website/Marketing/Kios/Konfirmasi Kios" time="34.856" classname="Test Cases/Website/Marketing/Kios/Konfirmasi Kios" status="PASSED">
+         <system-out><![CDATA[2023-03-08 13:59:47 - [TEST_CASE][PASSED] - Test Cases/Website/Marketing/Kios/Konfirmasi Kios: Test Cases/Website/Marketing/Kios/Konfirmasi Kios
+
+2023-03-08 13:59:47 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-03-08 13:59:47 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-03-08 13:59:47 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-03-08 13:59:49 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-03-08 13:59:49 - [TEST_STEP][PASSED] - navigateToUrl("https://fe-staging.kumpulkebon.com/login"): Navigate to 'https://fe-staging.kumpulkebon.com/login' successfully
+
+2023-03-08 13:59:52 - [MESSAGE][PASSED] - Navigate to 'https://fe-staging.kumpulkebon.com/login' successfully
+
+2023-03-08 13:59:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Login/input_Lupa Kata Sandi_login"), "support@mail.com"): Text 'support@mail.com' is set on object 'Object Repository/Object Kios/Page_Login/input_Lupa Kata Sandi_login'
+
+2023-03-08 13:59:53 - [MESSAGE][PASSED] - Text 'support@mail.com' is set on object 'Object Repository/Object Kios/Page_Login/input_Lupa Kata Sandi_login'
+
+2023-03-08 13:59:53 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Object Kios/Page_Login/input_Lupa Kata Sandi_password"), "8SQVv/p9jVScEs4/2CZsLw=="): Text ****** has been set on object 'Object Repository/Object Kios/Page_Login/input_Lupa Kata Sandi_password'
+
+2023-03-08 13:59:54 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Object Kios/Page_Login/input_Lupa Kata Sandi_password'
+
+2023-03-08 13:59:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Login/button_Masuk")): Object: 'Object Repository/Object Kios/Page_Login/button_Masuk' is clicked on
+
+2023-03-08 14:00:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Login/button_Masuk' is clicked on
+
+2023-03-08 14:00:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Support - Dashboard/a_Kios")): Object: 'Object Repository/Object Kios/Page_Marketing Support - Dashboard/a_Kios' is clicked on
+
+2023-03-08 14:00:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Support - Dashboard/a_Kios' is clicked on
+
+2023-03-08 14:00:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Support - Dashboard/a_Konfirmasi Kios")): Object: 'Object Repository/Object Kios/Page_Marketing Support - Dashboard/a_Konfirmasi Kios' is clicked on
+
+2023-03-08 14:00:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Support - Dashboard/a_Konfirmasi Kios' is clicked on
+
+2023-03-08 14:00:10 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Support/input_Filter_nameKios"), "PT CINTA CEJAHTERA"): Text 'PT CINTA CEJAHTERA' is set on object 'Object Repository/Object Kios/Page_Marketing Support/input_Filter_nameKios'
+
+2023-03-08 14:00:13 - [MESSAGE][PASSED] - Text 'PT CINTA CEJAHTERA' is set on object 'Object Repository/Object Kios/Page_Marketing Support/input_Filter_nameKios'
+
+2023-03-08 14:00:13 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Object Kios/Page_Marketing Support/input_Filter_nameKios"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Support/input_Filter_nameKios'
+
+2023-03-08 14:00:14 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Support/input_Filter_nameKios'
+
+2023-03-08 14:00:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Support/button_Konfirmasi")): Object: 'Object Repository/Object Kios/Page_Marketing Support/button_Konfirmasi' is clicked on
+
+2023-03-08 14:00:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Support/button_Konfirmasi' is clicked on
+
+2023-03-08 14:00:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Support/button_Setujui")): Object: 'Object Repository/Object Kios/Page_Marketing Support/button_Setujui' is clicked on
+
+2023-03-08 14:00:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Support/button_Setujui' is clicked on
+
+2023-03-08 14:00:20 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Object Kios/Page_Marketing Support/strong_Anda yakin akan MENYETUJUI Kios tersebut"), "Anda yakin akan MENYETUJUI Kios tersebut?"): Actual text and expected text of test object 'Object Repository/Object Kios/Page_Marketing Support/strong_Anda yakin akan MENYETUJUI Kios tersebut' are matched.
+
+2023-03-08 14:00:20 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Object Kios/Page_Marketing Support/strong_Anda yakin akan MENYETUJUI Kios tersebut' are matched.
+
+2023-03-08 14:00:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Support/button_Ya")): Object: 'Object Repository/Object Kios/Page_Marketing Support/button_Ya' is clicked on
+
+2023-03-08 14:00:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Support/button_Ya' is clicked on
+
+2023-03-08 14:00:21 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-03-08 14:00:21 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Website/Marketing/Kios/Registrasi Sub Dealer" time="116.956" classname="Test Cases/Website/Marketing/Kios/Registrasi Sub Dealer" status="PASSED">
+         <system-out><![CDATA[2023-03-08 14:00:21 - [TEST_CASE][PASSED] - Test Cases/Website/Marketing/Kios/Registrasi Sub Dealer: Test Cases/Website/Marketing/Kios/Registrasi Sub Dealer
+
+2023-03-08 14:00:22 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-03-08 14:00:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-03-08 14:00:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-03-08 14:00:23 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-03-08 14:00:23 - [TEST_STEP][PASSED] - navigateToUrl("https://fe-staging.kumpulkebon.com/login"): Navigate to 'https://fe-staging.kumpulkebon.com/login' successfully
+
+2023-03-08 14:00:28 - [MESSAGE][PASSED] - Navigate to 'https://fe-staging.kumpulkebon.com/login' successfully
+
+2023-03-08 14:00:28 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Login/input_Lupa Kata Sandi_login"), "personelrmc1@mail.com"): Text 'personelrmc1@mail.com' is set on object 'Object Repository/Object Kios/Page_Login/input_Lupa Kata Sandi_login'
+
+2023-03-08 14:00:29 - [MESSAGE][PASSED] - Text 'personelrmc1@mail.com' is set on object 'Object Repository/Object Kios/Page_Login/input_Lupa Kata Sandi_login'
+
+2023-03-08 14:00:29 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Object Kios/Page_Login/input_Lupa Kata Sandi_password"), "8SQVv/p9jVScEs4/2CZsLw=="): Text ****** has been set on object 'Object Repository/Object Kios/Page_Login/input_Lupa Kata Sandi_password'
+
+2023-03-08 14:00:29 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Object Kios/Page_Login/input_Lupa Kata Sandi_password'
+
+2023-03-08 14:00:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Login/button_Masuk")): Object: 'Object Repository/Object Kios/Page_Login/button_Masuk' is clicked on
+
+2023-03-08 14:00:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Login/button_Masuk' is clicked on
+
+2023-03-08 14:00:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_/button_Marketing")): Object: 'Object Repository/Object Kios/Page_/button_Marketing' is clicked on
+
+2023-03-08 14:00:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_/button_Marketing' is clicked on
+
+2023-03-08 14:00:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Staff - Dashboard/a_Kios")): Object: 'Object Repository/Object Kios/Page_Marketing Staff - Dashboard/a_Kios' is clicked on
+
+2023-03-08 14:00:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff - Dashboard/a_Kios' is clicked on
+
+2023-03-08 14:00:54 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input_Filter_name"), "PT CINTA CEJAHTERA"): Text 'PT CINTA CEJAHTERA' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_Filter_name'
+
+2023-03-08 14:00:57 - [MESSAGE][PASSED] - Text 'PT CINTA CEJAHTERA' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_Filter_name'
+
+2023-03-08 14:00:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/button_Filter_button_search")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Filter_button_search' is clicked on
+
+2023-03-08 14:00:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Filter_button_search' is clicked on
+
+2023-03-08 14:00:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/button_Registrasi Sub-Dealer")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Registrasi Sub-Dealer' is clicked on
+
+2023-03-08 14:01:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Registrasi Sub-Dealer' is clicked on
+
+2023-03-08 14:01:00 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input__owner"), "Sung-ha-Jung"): Text 'Sung-ha-Jung' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input__owner'
+
+2023-03-08 14:01:07 - [MESSAGE][PASSED] - Text 'Sung-ha-Jung' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input__owner'
+
+2023-03-08 14:01:07 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/textarea__owner_address"), "mantijeron,deiyai, Papua"): Text 'mantijeron,deiyai, Papua' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/textarea__owner_address'
+
+2023-03-08 14:01:12 - [MESSAGE][PASSED] - Text 'mantijeron,deiyai, Papua' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/textarea__owner_address'
+
+2023-03-08 14:01:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/span_Pilih Provinsi - registrasi sub dealer")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/span_Pilih Provinsi - registrasi sub dealer' is clicked on
+
+2023-03-08 14:01:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/span_Pilih Provinsi - registrasi sub dealer' is clicked on
+
+2023-03-08 14:01:13 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field"), "Bengkulu"): Text 'Bengkulu' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:14 - [MESSAGE][PASSED] - Text 'Bengkulu' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:14 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:14 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/span_Pilih Kabupaten Kota - registrasi Sub dealer")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/span_Pilih Kabupaten Kota - registrasi Sub dealer' is clicked on
+
+2023-03-08 14:01:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/span_Pilih Kabupaten Kota - registrasi Sub dealer' is clicked on
+
+2023-03-08 14:01:18 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field"), "Kaur"): Text 'Kaur' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:19 - [MESSAGE][PASSED] - Text 'Kaur' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:19 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:19 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/span_Pilih Kecamatan - registrasi sub dealer")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/span_Pilih Kecamatan - registrasi sub dealer' is clicked on
+
+2023-03-08 14:01:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/span_Pilih Kecamatan - registrasi sub dealer' is clicked on
+
+2023-03-08 14:01:22 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field"), "kinal"): Text 'kinal' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:23 - [MESSAGE][PASSED] - Text 'kinal' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:23 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:24 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input__owner_ktp"), "123456789000000"): Text '123456789000000' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input__owner_ktp'
+
+2023-03-08 14:01:25 - [MESSAGE][PASSED] - Text '123456789000000' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input__owner_ktp'
+
+2023-03-08 14:01:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input_No. NPWP_owner_npwp"), "12.345.678.9-000.000"): Text '12.345.678.9-000.000' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_No. NPWP_owner_npwp'
+
+2023-03-08 14:01:26 - [MESSAGE][PASSED] - Text '12.345.678.9-000.000' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_No. NPWP_owner_npwp'
+
+2023-03-08 14:01:26 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input__owner_telephone"), "81234567890"): Text '81234567890' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input__owner_telephone'
+
+2023-03-08 14:01:26 - [MESSAGE][PASSED] - Text '81234567890' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input__owner_telephone'
+
+2023-03-08 14:01:26 - [TEST_STEP][PASSED] - scrollToPosition(200, 0): Browser is scrolled to position x = 200, y = 0
+
+2023-03-08 14:01:27 - [MESSAGE][PASSED] - Browser is scrolled to position x = 200, y = 0
+
+2023-03-08 14:01:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/span_Pilih Jenis Entitas")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/span_Pilih Jenis Entitas' is clicked on
+
+2023-03-08 14:01:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/span_Pilih Jenis Entitas' is clicked on
+
+2023-03-08 14:01:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field"), "perseorangan"): Text 'perseorangan' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:28 - [MESSAGE][PASSED] - Text 'perseorangan' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:28 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:28 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/button_Registrasikan")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Registrasikan' is clicked on
+
+2023-03-08 14:01:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Registrasikan' is clicked on
+
+2023-03-08 14:01:29 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2023-03-08 14:01:31 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2023-03-08 14:01:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/button_Ya - registrasi sub dealer")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Ya - registrasi sub dealer' is clicked on
+
+2023-03-08 14:01:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Ya - registrasi sub dealer' is clicked on
+
+2023-03-08 14:01:32 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2023-03-08 14:01:34 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2023-03-08 14:01:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/button_Unggah Lampiran")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Unggah Lampiran' is clicked on
+
+2023-03-08 14:01:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Unggah Lampiran' is clicked on
+
+2023-03-08 14:01:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Kios/Page_Marketing Staff/Search pilihan lampiran"), STOP_ON_FAILURE): Object: 'Object Repository/Object Kios/Page_Marketing Staff/Search pilihan lampiran' is clicked on
+
+2023-03-08 14:01:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/Search pilihan lampiran' is clicked on
+
+2023-03-08 14:01:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field"), "Foto Sub-Dealer (WAJIB)"): Text 'Foto Sub-Dealer (WAJIB)' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:39 - [MESSAGE][PASSED] - Text 'Foto Sub-Dealer (WAJIB)' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:39 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:39 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:39 - [TEST_STEP][PASSED] - uploadFileWithDragAndDrop(findTestObject("Object Kios/Page_Marketing Staff/upload foto sub-dealer(wajib)"), "C:\\Users\\redan\\Downloads\\BULAN.jpg"): null
+
+2023-03-08 14:01:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/button_Unggah")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Unggah' is clicked on
+
+2023-03-08 14:01:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Unggah' is clicked on
+
+2023-03-08 14:01:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Kios/Page_Marketing Staff/Search pilihan lampiran"), STOP_ON_FAILURE): Object: 'Object Repository/Object Kios/Page_Marketing Staff/Search pilihan lampiran' is clicked on
+
+2023-03-08 14:01:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/Search pilihan lampiran' is clicked on
+
+2023-03-08 14:01:48 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field"), "ktp"): Text 'ktp' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:49 - [MESSAGE][PASSED] - Text 'ktp' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:49 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:49 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:49 - [TEST_STEP][PASSED] - uploadFileWithDragAndDrop(findTestObject("Object Kios/Page_Marketing Staff/upload foto sub-dealer(wajib)"), "C:\\Users\\redan\\Downloads\\BULAN.jpg"): null
+
+2023-03-08 14:01:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/button_Unggah")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Unggah' is clicked on
+
+2023-03-08 14:01:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Unggah' is clicked on
+
+2023-03-08 14:01:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Kios/Page_Marketing Staff/Search pilihan lampiran"), STOP_ON_FAILURE): Object: 'Object Repository/Object Kios/Page_Marketing Staff/Search pilihan lampiran' is clicked on
+
+2023-03-08 14:01:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/Search pilihan lampiran' is clicked on
+
+2023-03-08 14:01:56 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field"), "SIUP"): Text 'SIUP' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:57 - [MESSAGE][PASSED] - Text 'SIUP' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:57 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:57 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:01:57 - [TEST_STEP][PASSED] - uploadFileWithDragAndDrop(findTestObject("Object Kios/Page_Marketing Staff/upload foto sub-dealer(wajib)"), "C:\\Users\\redan\\Downloads\\BULAN.jpg"): null
+
+2023-03-08 14:01:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/button_Unggah")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Unggah' is clicked on
+
+2023-03-08 14:01:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Unggah' is clicked on
+
+2023-03-08 14:01:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Kios/Page_Marketing Staff/Search pilihan lampiran"), STOP_ON_FAILURE): Object: 'Object Repository/Object Kios/Page_Marketing Staff/Search pilihan lampiran' is clicked on
+
+2023-03-08 14:02:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/Search pilihan lampiran' is clicked on
+
+2023-03-08 14:02:04 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field"), "Persetujuan registrasi"): Text 'Persetujuan registrasi' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:02:05 - [MESSAGE][PASSED] - Text 'Persetujuan registrasi' is set on object 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:02:05 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:02:06 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Staff/input_Ya_select2-search__field'
+
+2023-03-08 14:02:06 - [TEST_STEP][PASSED] - uploadFileWithDragAndDrop(findTestObject("Object Kios/Page_Marketing Staff/upload foto sub-dealer(wajib)"), "C:\\Users\\redan\\Downloads\\BULAN.jpg"): null
+
+2023-03-08 14:02:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/button_Unggah")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Unggah' is clicked on
+
+2023-03-08 14:02:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Unggah' is clicked on
+
+2023-03-08 14:02:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Kios/Page_Marketing Staff/button back - registrasi sub dealer")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/button back - registrasi sub dealer' is clicked on
+
+2023-03-08 14:02:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/button back - registrasi sub dealer' is clicked on
+
+2023-03-08 14:02:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Kios/Page_Marketing Staff/input__checkbox - 0")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/input__checkbox - 0' is clicked on
+
+2023-03-08 14:02:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/input__checkbox - 0' is clicked on
+
+2023-03-08 14:02:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input__checkbox")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/input__checkbox' is clicked on
+
+2023-03-08 14:02:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/input__checkbox' is clicked on
+
+2023-03-08 14:02:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input__checkbox_1")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/input__checkbox_1' is clicked on
+
+2023-03-08 14:02:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/input__checkbox_1' is clicked on
+
+2023-03-08 14:02:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/input__checkbox_1_2")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/input__checkbox_1_2' is clicked on
+
+2023-03-08 14:02:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/input__checkbox_1_2' is clicked on
+
+2023-03-08 14:02:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Staff/button_Ajukan")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Ajukan' is clicked on
+
+2023-03-08 14:02:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Ajukan' is clicked on
+
+2023-03-08 14:02:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Kios/Page_Marketing Staff/button_Ya_1")): Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Ya_1' is clicked on
+
+2023-03-08 14:02:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Staff/button_Ya_1' is clicked on
+
+2023-03-08 14:02:18 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-03-08 14:02:18 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Website/Marketing/Kios/Konfirmasi - Sub Dealer" time="41.227" classname="Test Cases/Website/Marketing/Kios/Konfirmasi - Sub Dealer" status="PASSED">
+         <system-out><![CDATA[2023-03-08 14:02:18 - [TEST_CASE][PASSED] - Test Cases/Website/Marketing/Kios/Konfirmasi - Sub Dealer: Test Cases/Website/Marketing/Kios/Konfirmasi - Sub Dealer
+
+2023-03-08 14:02:19 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-03-08 14:02:19 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-03-08 14:02:19 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-03-08 14:02:20 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-03-08 14:02:20 - [TEST_STEP][PASSED] - navigateToUrl("https://fe-staging.kumpulkebon.com/login"): Navigate to 'https://fe-staging.kumpulkebon.com/login' successfully
+
+2023-03-08 14:02:23 - [MESSAGE][PASSED] - Navigate to 'https://fe-staging.kumpulkebon.com/login' successfully
+
+2023-03-08 14:02:23 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Login/input_Lupa Kata Sandi_login (1)"), "support@mail.com"): Text 'support@mail.com' is set on object 'Object Repository/Object Kios/Page_Login/input_Lupa Kata Sandi_login (1)'
+
+2023-03-08 14:02:24 - [MESSAGE][PASSED] - Text 'support@mail.com' is set on object 'Object Repository/Object Kios/Page_Login/input_Lupa Kata Sandi_login (1)'
+
+2023-03-08 14:02:24 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Object Kios/Page_Login/input_Lupa Kata Sandi_password (1)"), "8SQVv/p9jVScEs4/2CZsLw=="): Text ****** has been set on object 'Object Repository/Object Kios/Page_Login/input_Lupa Kata Sandi_password (1)'
+
+2023-03-08 14:02:24 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Object Kios/Page_Login/input_Lupa Kata Sandi_password (1)'
+
+2023-03-08 14:02:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Login/button_Masuk (1)")): Object: 'Object Repository/Object Kios/Page_Login/button_Masuk (1)' is clicked on
+
+2023-03-08 14:02:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Login/button_Masuk (1)' is clicked on
+
+2023-03-08 14:02:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Support - Dashboard/a_Sub Dealer")): Object: 'Object Repository/Object Kios/Page_Marketing Support - Dashboard/a_Sub Dealer' is clicked on
+
+2023-03-08 14:02:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Support - Dashboard/a_Sub Dealer' is clicked on
+
+2023-03-08 14:02:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Support - Dashboard/a_Konfirmasi  Sub-Dealer")): Object: 'Object Repository/Object Kios/Page_Marketing Support - Dashboard/a_Konfirmasi  Sub-Dealer' is clicked on
+
+2023-03-08 14:02:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Support - Dashboard/a_Konfirmasi  Sub-Dealer' is clicked on
+
+2023-03-08 14:02:34 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Object Kios/Page_Marketing Support/input_Filter_searchAll"), "PT CINTA CEJAHTERA"): Text 'PT CINTA CEJAHTERA' is set on object 'Object Repository/Object Kios/Page_Marketing Support/input_Filter_searchAll'
+
+2023-03-08 14:02:38 - [MESSAGE][PASSED] - Text 'PT CINTA CEJAHTERA' is set on object 'Object Repository/Object Kios/Page_Marketing Support/input_Filter_searchAll'
+
+2023-03-08 14:02:38 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Object Kios/Page_Marketing Support/input_Filter_searchAll"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Support/input_Filter_searchAll'
+
+2023-03-08 14:02:38 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Object Kios/Page_Marketing Support/input_Filter_searchAll'
+
+2023-03-08 14:02:38 - [TEST_STEP][PASSED] - verifyTextPresent("PT CINTA CEJAHTERA", false): Text 'PT CINTA CEJAHTERA' is present on page 
+
+2023-03-08 14:02:41 - [MESSAGE][PASSED] - Text 'PT CINTA CEJAHTERA' is present on page 
+
+2023-03-08 14:02:41 - [TEST_STEP][PASSED] - verifyTextPresent("+621234566789", false): Text '+621234566789' is present on page 
+
+2023-03-08 14:02:42 - [MESSAGE][PASSED] - Text '+621234566789' is present on page 
+
+2023-03-08 14:02:42 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2023-03-08 14:02:44 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2023-03-08 14:02:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Support/input_PT CERIA SEJAHTERA_btn btn-sm btn-tab_2dcee3")): Object: 'Object Repository/Object Kios/Page_Marketing Support/input_PT CERIA SEJAHTERA_btn btn-sm btn-tab_2dcee3' is clicked on
+
+2023-03-08 14:02:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Support/input_PT CERIA SEJAHTERA_btn btn-sm btn-tab_2dcee3' is clicked on
+
+2023-03-08 14:02:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Kios/Page_Marketing Support/check input DRA")): Object: 'Object Repository/Object Kios/Page_Marketing Support/check input DRA' is clicked on
+
+2023-03-08 14:02:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Support/check input DRA' is clicked on
+
+2023-03-08 14:02:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Kios/Page_Marketing Support/check input SIUP")): Object: 'Object Repository/Object Kios/Page_Marketing Support/check input SIUP' is clicked on
+
+2023-03-08 14:02:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Support/check input SIUP' is clicked on
+
+2023-03-08 14:02:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Kios/Page_Marketing Support/check input SUB DEALER")): Object: 'Object Repository/Object Kios/Page_Marketing Support/check input SUB DEALER' is clicked on
+
+2023-03-08 14:02:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Support/check input SUB DEALER' is clicked on
+
+2023-03-08 14:02:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Kios/Page_Marketing Support/check input KTP")): Object: 'Object Repository/Object Kios/Page_Marketing Support/check input KTP' is clicked on
+
+2023-03-08 14:02:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Support/check input KTP' is clicked on
+
+2023-03-08 14:02:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Support/button_Setujui (1)")): Object: 'Object Repository/Object Kios/Page_Marketing Support/button_Setujui (1)' is clicked on
+
+2023-03-08 14:02:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Support/button_Setujui (1)' is clicked on
+
+2023-03-08 14:02:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Object Kios/Page_Marketing Support/button_Ya (1)")): Object: 'Object Repository/Object Kios/Page_Marketing Support/button_Ya (1)' is clicked on
+
+2023-03-08 14:02:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Object Kios/Page_Marketing Support/button_Ya (1)' is clicked on
+
+2023-03-08 14:02:49 - [TEST_STEP][PASSED] - delay(10): Delayed 10 second(s)
+
+2023-03-08 14:02:59 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2023-03-08 14:02:59 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-03-08 14:03:00 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-03-08 13:58:46 - [TEST_SUITE][PASSED] - Kios: Test Cases/Website/Marketing/Kios/Konfirmasi - Sub Dealer]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

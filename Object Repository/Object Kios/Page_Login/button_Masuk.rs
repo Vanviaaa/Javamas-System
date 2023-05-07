@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Masuk</name>
+   <tag></tag>
+   <elementGuidId>b4e38ace-f4c7-495b-9eb1-b97139f2ad10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-success.login-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/main/div/div/div/div/div/div/div/form/div[3]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>396a16bf-e0e2-4b10-81ba-a2932439654f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success login-button</value>
+      <webElementGuid>68e014b2-ae07-4be1-bd29-3a8d5e206a11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            Masuk
+                                        </value>
+      <webElementGuid>e58f02f5-68c7-4dcd-8f5b-542e29e515d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/main[@class=&quot;py-4&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-14 col-md-12 col-lg-10 col-xl-9 mx-auto mt-5&quot;]/div[@class=&quot;card card-signin flex-row my-5&quot;]/div[@class=&quot;card-body&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;justify&quot;]/button[@class=&quot;btn btn-success login-button&quot;]</value>
+      <webElementGuid>fed5227b-5022-40de-a4d2-5a83bf5fcc98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/main/div/div/div/div/div/div/div/form/div[3]/button</value>
+      <webElementGuid>737c6666-d58e-463b-878e-d054903a173d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Kata Sandi?'])[1]/following::button[1]</value>
+      <webElementGuid>e80e64cb-3504-4533-9e99-fa98e389b8e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Javamas.com'])[1]/preceding::button[1]</value>
+      <webElementGuid>d8349f19-41d1-4a5d-a5fc-c557185b54be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>ca0cf847-c54b-400f-9166-2a88c745bfc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+                                            Masuk
+                                        ' or . = '
+                                            Masuk
+                                        ')]</value>
+      <webElementGuid>8a249702-b5e5-420f-a95a-343956d858de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

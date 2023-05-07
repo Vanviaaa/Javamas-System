@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Simpan Data Kios</name>
+   <tag></tag>
+   <elementGuidId>a2ebea33-b7ba-4a14-a229-cc468a5ca212</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='ButtonSimpanDataKios']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ButtonSimpanDataKios</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c5f8317b-07c6-4dff-a278-4f5338387df7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ButtonSimpanDataKios</value>
+      <webElementGuid>a0124cd2-403c-4ca1-b90b-18d0f8d42c6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn button-add-long-half-form</value>
+      <webElementGuid>86599caf-663e-4068-8d9d-fa37af401f47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>33ad1efc-64fa-4216-ae5f-0bf0bbdb2c5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Simpan Data Kios
+                    </value>
+      <webElementGuid>e693e8e4-7f41-474c-bfe7-f30dc6fb246d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ButtonSimpanDataKios&quot;)</value>
+      <webElementGuid>0339f4d1-505a-4d01-a8a1-1ae1082795ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='ButtonSimpanDataKios']</value>
+      <webElementGuid>eeaea1e6-9588-495e-9356-5ac852c2c2a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='tambah-kios']/div[2]/button</value>
+      <webElementGuid>1a4a902d-ccb3-48db-994b-665572812c4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Catatan Perubahan'])[2]/following::button[1]</value>
+      <webElementGuid>8755b11a-6557-4c2c-b5d6-558a0e2b7a86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::button[2]</value>
+      <webElementGuid>04cdfa63-c4e6-4ee4-9b4f-f428e0815ceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Petani Kios'])[2]/preceding::button[1]</value>
+      <webElementGuid>d190ca2c-aeac-4385-b6f7-bbb5dfbbf17a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Petani Kunci'])[2]/preceding::button[1]</value>
+      <webElementGuid>e915cef5-6522-4b8a-8bcf-ee19e6602a73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Simpan Data Kios']/parent::*</value>
+      <webElementGuid>9bdb9306-f09a-4dfa-976d-e245a5ee7751</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div[2]/button</value>
+      <webElementGuid>97550bd6-ffc1-438a-8ad4-a3bed9ebb6da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'ButtonSimpanDataKios' and @type = 'submit' and (text() = '
+                        Simpan Data Kios
+                    ' or . = '
+                        Simpan Data Kios
+                    ')]</value>
+      <webElementGuid>64783931-e8ba-46a3-8c25-49d05e8981f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

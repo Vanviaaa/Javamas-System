@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_MENYETUJUI</name>
+   <tag></tag>
+   <elementGuidId>c3dee4ee-d5ae-4d9c-9d90-3c8f99f09ff7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-add-kios']/div/div/div/p/strong/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#modal-add-kios > div.modal-dialog.modal-confirmation > div.modal-content.add > div.modal-body > p > strong > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0a30d540-735c-4c34-948a-ca7df9615131</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MENYETUJUI</value>
+      <webElementGuid>b09609c9-de8f-4ee0-b9ec-549eff539d89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;c-app modal-open&quot;]/div[@id=&quot;modal-add-kios&quot;]/div[@class=&quot;modal-dialog modal-confirmation&quot;]/div[@class=&quot;modal-content add&quot;]/div[@class=&quot;modal-body&quot;]/p[1]/strong[1]/span[1]</value>
+      <webElementGuid>fecd7236-13c7-4af8-9eb2-bad5f1277201</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-add-kios']/div/div/div/p/strong/span</value>
+      <webElementGuid>6705ff7e-782e-4269-a928-9054ff059787</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya'])[4]/following::span[1]</value>
+      <webElementGuid>25577296-d3ee-402b-8ec1-cd603fb1a721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[5]/preceding::span[1]</value>
+      <webElementGuid>5c259af0-1d7f-41c2-b4b4-82b77ce4e3dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya'])[5]/preceding::span[1]</value>
+      <webElementGuid>db48dabd-3738-46a9-87ff-fd2bef2b4849</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/p/strong/span</value>
+      <webElementGuid>7076dcb2-001c-45c6-a476-30e4a6caa2bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'MENYETUJUI' or . = 'MENYETUJUI')]</value>
+      <webElementGuid>36d80773-5999-4996-90af-e83a1671eaef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

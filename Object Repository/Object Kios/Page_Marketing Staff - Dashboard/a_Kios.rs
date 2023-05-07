@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kios</name>
+   <tag></tag>
+   <elementGuidId>9e10aa96-b9c8-4087-ada7-ad0faa7c6cc2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar']/ul/div[2]/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d16ea4a2-1033-4d2e-ae16-9092c0d3c378</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c-sidebar-nav-link</value>
+      <webElementGuid>88482438-75b6-4094-a2eb-740e280af511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://fe-staging.kumpulkebon.com/marketing-staff/kios</value>
+      <webElementGuid>932d4fd4-036c-4229-831d-31769a9a4ae9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    
+                     Kios 
+                </value>
+      <webElementGuid>d6e4f9c7-935c-448c-9cea-16e22a8a3ba6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar&quot;)/ul[@class=&quot;c-sidebar-nav ps ps--active-y ps--scrolling-y&quot;]/div[@class=&quot;sidebar-menu&quot;]/li[@class=&quot;c-sidebar-nav-item&quot;]/a[@class=&quot;c-sidebar-nav-link&quot;]</value>
+      <webElementGuid>58e691e8-dc7b-4f25-a8a5-55f5c6822149</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar']/ul/div[2]/li[2]/a</value>
+      <webElementGuid>82e32e67-f35d-47bb-9453-9aa307f3de90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Barang'])[1]/following::a[7]</value>
+      <webElementGuid>e50f3c96-da64-416d-886f-85e9a8094106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penerimaan'])[1]/following::a[7]</value>
+      <webElementGuid>6a2afc51-e068-494a-b98d-36e0d5fe411d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forecast'])[1]/preceding::a[1]</value>
+      <webElementGuid>dab42f1b-2884-4934-a022-874541fa3ab2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dan Pencapaian'])[1]/preceding::a[1]</value>
+      <webElementGuid>71d0d7be-7793-4900-bf1d-0d9dba43bafb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://fe-staging.kumpulkebon.com/marketing-staff/kios')]</value>
+      <webElementGuid>360cd5d9-8bd3-4519-8202-aa129238da42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>77289f54-a5ed-496c-978f-e72ee8e6e55c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://fe-staging.kumpulkebon.com/marketing-staff/kios' and (text() = '
+                    
+                     Kios 
+                ' or . = '
+                    
+                     Kios 
+                ')]</value>
+      <webElementGuid>8edacc0f-8d0a-4181-9af8-5f09bd76c972</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

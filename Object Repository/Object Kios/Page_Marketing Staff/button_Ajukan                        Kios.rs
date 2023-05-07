@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ajukan                        Kios</name>
+   <tag></tag>
+   <elementGuidId>c1984753-f659-4662-83aa-5973f2061618</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='ButtonTambahKios']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ButtonTambahKios</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>823257ae-92e9-410c-ace6-fd5cb407c405</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a3b59ccf-cdce-4d27-8b3b-e8b1fe2fd9d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-secondary tambah-kios</value>
+      <webElementGuid>92a7a2be-0e3c-412c-89bb-85f8cc7c5e7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ButtonTambahKios</value>
+      <webElementGuid>89262b96-286b-4f5a-ad34-e3d7a5f77c5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Ajukan
+                        Kios</value>
+      <webElementGuid>823c1c9b-9686-4685-b817-4b02343718ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ButtonTambahKios&quot;)</value>
+      <webElementGuid>f3561be1-b88c-431c-ba0c-2e73ffc53eca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='ButtonTambahKios']</value>
+      <webElementGuid>11cfea16-7eab-4278-b049-01a6bb0e39c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='table_store']/div/div/div[2]/div[5]/button</value>
+      <webElementGuid>6a258e3f-19d5-43df-98d9-a5c6bf65a2eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Riwayat Pengajuan'])[1]/following::button[1]</value>
+      <webElementGuid>29d7cd8d-e51b-4bd6-b264-d1d088b2e1ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/following::button[3]</value>
+      <webElementGuid>c9e3e9b6-e1cf-4696-a32e-808871de1990</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Kios: 8'])[1]/preceding::button[1]</value>
+      <webElementGuid>80a501b3-fb09-4f2d-afe9-d4c71195b6e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Kios'])[3]/preceding::button[1]</value>
+      <webElementGuid>d18e575d-154d-4cb5-9e7a-906c0a9e53a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[5]/button</value>
+      <webElementGuid>e01d5525-95b2-4fdb-af27-0c89df4da4ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'ButtonTambahKios' and (text() = ' Ajukan
+                        Kios' or . = ' Ajukan
+                        Kios')]</value>
+      <webElementGuid>211d8011-52f9-47d7-8aec-e11d1997edb3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

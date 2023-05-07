@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_Kios</name>
+   <tag></tag>
+   <elementGuidId>33ffc708-6976-4f7f-a8fc-10ce3c56bd11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar']/ul/div[2]/li[2]/a/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>0b9561b1-68ce-4791-9f1b-e50c69ec5d61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Kios </value>
+      <webElementGuid>814e209b-0504-43eb-b14a-52c60b8e57e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar&quot;)/ul[@class=&quot;c-sidebar-nav ps ps--active-y ps--scrolling-y&quot;]/div[@class=&quot;sidebar-menu&quot;]/li[@class=&quot;c-sidebar-nav-item&quot;]/a[@class=&quot;c-sidebar-nav-link&quot;]/ul[1]</value>
+      <webElementGuid>fd209cd2-e8f3-4d27-9b1b-59e216012b1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar']/ul/div[2]/li[2]/a/ul</value>
+      <webElementGuid>8a729875-6f8a-414e-bd79-557ff6ff879d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Barang'])[1]/following::ul[9]</value>
+      <webElementGuid>4ebffd97-9dba-4380-9590-6f8de00e18d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penerimaan'])[1]/following::ul[9]</value>
+      <webElementGuid>fcf59cf1-e327-40d1-a032-6ff15f3cd84e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forecast'])[1]/preceding::ul[1]</value>
+      <webElementGuid>a54204ce-8b23-49fd-a456-65a2821652ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dan Pencapaian'])[1]/preceding::ul[1]</value>
+      <webElementGuid>07586ab6-d85c-4f04-afc2-6599ca5c491e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kios']/parent::*</value>
+      <webElementGuid>471f5fa0-b5e0-4a05-a1b0-28cddfd2686d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/ul</value>
+      <webElementGuid>9b3548b6-3a95-44c0-ae7b-438df3527ebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = ' Kios ' or . = ' Kios ')]</value>
+      <webElementGuid>910ff820-c284-498e-bd6c-2be9d298c9a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

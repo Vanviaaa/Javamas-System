@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ButtonSubmit-kios</name>
+   <tag></tag>
+   <elementGuidId>157f779d-0de9-451c-a4a9-1171c2cd8d60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='ButtonSubmit-kios']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ButtonSubmit-kios</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'storeFarmerExistYes']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>storeFarmerExistYes</value>
+      <webElementGuid>3ce91ec9-bd9a-46a3-b771-1a6186b637e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='ButtonSubmit-kios']</value>
+      <webElementGuid>7e4cfd15-fa19-4d0f-a30f-da39bb4d713b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input[2]</value>
+      <webElementGuid>da3dcdd0-8881-462e-95f9-0ffa305516c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button' and @id = 'ButtonSubmit-kios']</value>
+      <webElementGuid>45f04bd0-18e9-40b9-86cb-16878a06d571</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
