@@ -17,16 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+for (int i = 1; i <= 10; i++) {
+    WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://fe-staging.kumpulkebon.com/login')
+    WebUI.navigateToUrl('https://fe-staging.kumpulkebon.com/login')
 
-WebUI.setText(findTestObject('Object Repository/Javamas Object/Website/Login/Page_Login/input_Lupa Kata Sandi_login'), 'support@mail.com')
+    WebUI.setText(findTestObject('Object Repository/Javamas Object/Website/Login/Page_Login/input_Lupa Kata Sandi_login'), 'support@mail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Javamas Object/Website/Login/Page_Login/input_Lupa Kata Sandi_password'), 
-    'tappsFZKmmmQvrL+aP2SaA==')
+    WebUI.setEncryptedText(findTestObject('Object Repository/Javamas Object/Website/Login/Page_Login/input_Lupa Kata Sandi_password'), 
+        'tappsFZKmmmQvrL+aP2SaA==')
 
-WebUI.click(findTestObject('Object Repository/Javamas Object/Website/Login/Page_Login/button_Masuk'))
+    WebUI.click(findTestObject('Object Repository/Javamas Object/Website/Login/Page_Login/button_Masuk'))
 
-WebUI.closeBrowser()
-
+    WebUI.closeBrowser()
+}
